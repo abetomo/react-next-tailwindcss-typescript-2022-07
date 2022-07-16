@@ -1,0 +1,1 @@
+# react-next-tailwindcss-typescript-2022-07
